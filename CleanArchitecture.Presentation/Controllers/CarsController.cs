@@ -20,7 +20,4 @@ public sealed class CarsController : ApiController
     }
 
 
-    // test
-
-
 }
